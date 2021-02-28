@@ -1,0 +1,9 @@
+Matematika_IA.
+Matematika_IIA.
+Aljabar_Linear_dan_Geometri, Matematika_IA.
+Matematika_Diskrit.
+Algoritma_dan_Struktur_Data.
+Pemrograman_Berorientasi_Objek, Algoritma_dan_Struktur_Data.
+Probabilitas_dan_Statistika, Matematika_IA, Matematika_IIA, Matematika_Diskrit.
+Inteligensia_Buatan, Probabilitas_dan_Statistika.
+Pengembangan_Aplikasi_Berbasis_Web, Pemrograman_Berorientasi_Objek, Algoritma_dan_Struktur_Data.
